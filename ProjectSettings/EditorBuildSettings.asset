@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Orten shooter.unity
+    guid: 2f2d4e822dd97e34a8237b59bd4b2682
+  - enabled: 1
+    path: Assets/Scenes/GameOverscene.unity
+    guid: 054a3884adba9e743be38aa60bd81f23
+  - enabled: 1
+    path: Assets/Scenes/main menu shmup.unity
+    guid: 6f08237113cbf7340bec0935c2c65a9c
+  - enabled: 1
+    path: Assets/Scenes/Victory scene.unity
+    guid: c259d70a2c5b13e419dcc609e9508e30
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: c1a6f2cf5fd07744e90c376624e9a4ae
+  m_configObjects: {}
